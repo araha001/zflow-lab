@@ -10,7 +10,7 @@ const languageDetector = (text) => {
   return 'en'
 }
 
-const keywordSets = { ... }  // 중략
+// ... 이하 생략: 실제 코드는 캔버스 내 최신 내용 그대로 ...
 
 export default function ZflowLabV3() {
   const [input, setInput] = useState('')
