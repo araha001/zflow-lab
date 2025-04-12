@@ -1,5 +1,5 @@
 {
-  "name": "zflow-lab-v3",
+  "name": "zflow-lab-v3-ui",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
