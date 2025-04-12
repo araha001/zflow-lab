@@ -1,10 +1,9 @@
-
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import ZflowToolkit from './ZflowToolkit'
+import ZflowLabV3 from './ZflowToolkit'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <ZflowToolkit />
+    <ZflowLabV3 />
   </React.StrictMode>
 )
